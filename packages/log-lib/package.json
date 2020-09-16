@@ -1,4 +1,5 @@
 {
   "name": "@my-monorepo/log-lib",
+  "main": "index.js",
   "version": "1.0.0"
 }
