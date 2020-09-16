@@ -6,6 +6,9 @@
   ],
   "version": "independent",
   "command": {
+    "publish": {
+      "registry": "http://localhost:4873"
+    },
     "version": {
       "allowBranch": ["master"],
       "message": "chore(release): publish version %s",
