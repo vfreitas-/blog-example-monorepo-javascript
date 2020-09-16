@@ -11,6 +11,9 @@
   "scripts": {
     "release": "lerna publish"
   },
+  "publishConfig": {
+    "registry": "http://localhost:4873"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
